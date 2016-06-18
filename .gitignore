@@ -1,0 +1,16 @@
+/LABM201_P2P/target
+/LABM202_P2PAsync/target
+/LABM203_Topic/target
+/LABM204-MDB/target
+
+
+/LABM201_P2P/.settings
+/LABM202_P2PAsync/.settings
+/LABM203_Topic/.settings
+/LABM204-MDB/.settings	
+
+/LABM204-MDB/*/.settings	
+
+
+*/.classpath
+*/.project
